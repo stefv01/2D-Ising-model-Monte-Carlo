@@ -46,7 +46,7 @@ Key simulation parameters defined in `MC_ising_simulations.ipynb`:
 | `L` | Linear lattice dimension ($N=L^2$) | 10, 20, 100 |
 | `bJ` | Inverse temp * Coupling ($\beta J$) | Varied (Sweep) |
 | `h` | External magnetic field | 0.0 |
-| `tsteps` | Monte Carlo steps | 20,000+ |
+| `tsteps` | Monte Carlo steps | 10,000+ |
 | `partition` | Data saving interval | User defined |
 
 ## Usage
